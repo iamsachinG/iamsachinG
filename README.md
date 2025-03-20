@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @iamsachinG
-- 👀 I’m interested in ...Frontend development
-- 🌱 I’m currently learning ...JavaScript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Hi, I’m Sachin Gupta (@iamsachinG)  
+- 👀 I’m interested in Frontend Development  
+- 🌱 I’m currently learning JavaScript and improving my CSS skills  
+- 💼 I’m looking to collaborate on beginner-friendly frontend projects  
+- 📫 Reach me at: [guptasachin6299@gmail.com]  
+- ⚡ Fun fact: I love exploring new tech but overanalyze everything! 😅  
+
 
 <!---
 iamsachinG/iamsachinG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
