@@ -38,7 +38,7 @@
   <a href="https://github.com/iamsachinG" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-  <a href="https://www.instagram.com/iamsachinG" target="_blank">
+  <a href="https://www.instagram.com/iamsachingpvt" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </p>
