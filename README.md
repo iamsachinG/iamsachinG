@@ -20,6 +20,16 @@
 
 ---
 
+## 📱 Android & Mobile Enthusiast
+
+- 📲 Daily driver: **POCO F7** (previously used OnePlus 12R)
+- 🔓 Interested in **Bootloader Unlocking, Custom ROMs, Port ROMs, and Rooting**
+- 🛠️ Comfortable with **ADB, Fastboot, Platform Tools, and Device Debloating**
+- 🎨 Prefer clean **AOSP-style UI** and highly customizable Android experiences
+- 🧠 Explore topics like **UFS chip programming, hard-brick recovery, and firmware flashing**
+- ⚡ Passionate about optimizing performance, battery life, and system stability
+- 📦 Love discovering hidden Android features and advanced system tweaks
+
 ## 🌐 Connect With Me
 
 <p align="left">
