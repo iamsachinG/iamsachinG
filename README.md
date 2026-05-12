@@ -13,8 +13,7 @@
 - 💻 Currently focusing on **Backend Development**
 - 🌱 Learning **Node.js, Express.js, MongoDB, REST APIs, and Authentication**
 - 🧠 Strong interest in **Software Engineering, Cybersecurity, and AI**
-- 🎯 Goal: Become a Software Developer and build my own tech business
-- 🇩🇪 Planning to pursue my Master's degree in Germany
+- 🎯 Goal: Become a Software Developer 
 - 💬 Ask me about **JavaScript, Node.js, MongoDB, HTML, CSS**
 - 📫 Reach me at **guptasachin6299@gmail.com**
 - ⚡ Fun fact: I explain bugs to my rubber duck, and sometimes the duck wins 🦆
