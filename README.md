@@ -71,7 +71,6 @@
 ## 📌 Featured Projects
 
 - 🛒 **Trimbak Organic Website** – A client website for an organic products shop
-- 🎵 **Spotify UI Clone** – Modern responsive music app interface
 - 🛍️ **E-Commerce Website** – Full frontend with JavaScript interactions
 - 🌦️ **Weather App** – Real-time weather using API integration
 
@@ -83,4 +82,4 @@
 Backend Development   ████████████████████ 100%
 Data Structures       ████████████████░░░  80%
 English Communication ██████████████░░░░  70%
-German Preparation    ███████████░░░░░░░  55%
+
