@@ -11,9 +11,9 @@
 
 - 🎓 I'm a BCA student at Thakur College of Engineering & Technology (TCET), Mumbai
 - 💻 Currently focusing on **Backend Development**
-- 🌱 Learning **Node.js, Express.js, MongoDB, REST APIs, and Authentication**
+- 🌱 Learning **Node.js, Express.js, MySQL, REST APIs, and Authentication**
 - 🧠 Strong interest in **Software Engineering, Cybersecurity, and AI**
-- 💬 Ask me about **JavaScript, Node.js, MongoDB, HTML, CSS**
+- 💬 Ask me about **JavaScript, Node.js, MySQL, HTML, CSS**
 - 📫 Reach me at **guptasachin6299@gmail.com**
 - ⚡ Fun fact: I explain bugs to my rubber duck, and sometimes the duck wins 🦆
 
