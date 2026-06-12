@@ -21,7 +21,7 @@
 
 ## 📱 Android & Mobile Enthusiast
 
-- 📲 Daily driver: **POCO F7** (previously used OnePlus 12R)
+- 📲 Daily driver: **POCO F7** 
 - 🔓 Interested in **Bootloader Unlocking, Custom ROMs, Port ROMs, and Rooting**
 - 🛠️ Comfortable with **ADB, Fastboot, Platform Tools, and Device Debloating**
 - 🎨 Prefer clean **AOSP-style UI** and highly customizable Android experiences
