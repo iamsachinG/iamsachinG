@@ -1,71 +1,105 @@
-<h1 align="center">Hello, I'm Sachin Gupta :)</h1>
-<h3 align="center">A passionate Full Stack Developer & Software Engineering Student from India 🇮🇳</h3>
+# Hi, I'm Sachin Gupta 👋
+
+### Software Developer | BCA Student | Backend Enthusiast 🇮🇳
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=iamsachinG&label=Profile%20views&color=0e75b6&style=flat" alt="iamsachinG" />
+  <img src="https://komarev.com/ghpvc/?username=iamsachinG&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 I'm a BCA student at Thakur College of Engineering & Technology (TCET), Mumbai
-- 💻 Currently focusing on **AI**
-- 🌱 Learning **Node.js, Express.js, MySQL, REST APIs, and Authentication**
-- 🧠 Strong interest in **Software Engineering**
-- 💬 Ask me about **JavaScript, Node.js, MySQL, HTML, CSS**
-- 📫 Reach me at **guptasachin6299@gmail.com**
-- ⚡ Fun fact: I explain bugs to my rubber duck, and sometimes the duck wins 🦆
+🎓 BCA Student at Thakur College of Engineering & Technology (TCET), Mumbai
+
+💻 Currently focused on Backend Development
+
+🌱 Learning Node.js, Express.js, MongoDB, MySQL, REST APIs, Authentication & System Design
+
+⚡ Interested in Software Engineering, Backend Systems, Databases, and Web Technologies
+
+🎯 Goal: Become a skilled Software Developer and build products that solve real-world problems
+
+💬 Ask me about JavaScript, Node.js, HTML, CSS, MongoDB, and MySQL
+
+📫 Email: **[guptasachin6299@gmail.com](mailto:guptasachin6299@gmail.com)**
+
+🌐 Portfolio: **https://sachin-portfolio-nine-topaz.vercel.app**
 
 ---
 
-## 📱 Android & Mobile Enthusiast
+## 🛠️ Tech Stack
 
-- 📲 Daily driver: **POCO F7** 
-- 🔓 Interested in **Bootloader Unlocking, Custom ROMs, Port ROMs, and Rooting**
-- 🛠️ Comfortable with **ADB, Fastboot, Platform Tools, and Device Debloating**
-- 🎨 Prefer clean **AOSP-style UI** and highly customizable Android experiences
-- 🧠 Explore topics like **UFS chip programming, hard-brick recovery, and firmware flashing**
-- ⚡ Passionate about optimizing performance, battery life, and system stability
-- 📦 Love discovering hidden Android features and advanced system tweaks
+### Languages
 
-## 🌐 Connect With Me
+HTML • CSS • JavaScript • Java • Python
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/sachingupta6299" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="https://github.com/iamsachinG" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-  <a href="https://www.instagram.com/iamsachingpvt" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
-</p>
+### Frontend
+
+HTML • CSS • Tailwind CSS • React
+
+### Backend
+
+Node.js • Express.js
+
+### Database
+
+MongoDB • MySQL
+
+### Tools
+
+Git • GitHub • VS Code • Postman
 
 ---
 
-## 🛠️ Languages and Tools
+## 📱 Android & Technology Enthusiast
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,java,nodejs,express,mongodb,mysql,python,react,git,github,vscode" />
-</p>
+* Android Power User
+* ADB & Fastboot Experience
+* Custom ROM & Bootloader Unlocking Enthusiast
+* Device Optimization & Debloating
+* Performance, Battery & System Tweaking
 
 ---
-
 
 ## 📌 Featured Projects
 
-- 🛒 **Trimbak Organic Website** – A client website for an organic products shop
-- 🛍️ **E-Commerce Website** – Full frontend with JavaScript interactions
-- 🌦️ **Weather App** – Real-time weather using API integration
+### 🛒 Trimbak Organic
+
+Client website built for an organic products business.
+
+### 🎵 Spotify UI Clone
+
+Responsive Spotify-inspired frontend interface.
+
+### 🛍️ E-Commerce Website
+
+Interactive shopping website using HTML, CSS, and JavaScript.
+
+### 🌦️ Weather Application
+
+Weather information using API integration.
 
 ---
 
-## 📈 Current Focus
+## 📈 Currently Working On
 
 ```text
-Backend Development   ████████████████████ 100%
-Data Structures       ████████████████░░░  80%
-English Communication ██████████████░░░░  70%
+Backend Development      ████████████████████ 100%
+Node.js & Express.js     ██████████████████░░ 90%
+Database Design          ████████████████░░░░ 80%
+Data Structures          ███████████████░░░░░ 75%
+English Communication    ██████████████░░░░░░ 70%
+```
 
+---
+
+## 🌐 Connect With Me
+
+* LinkedIn: linkedin.com/in/sachingupta6299
+* GitHub: github.com/iamsachinG
+* Instagram: instagram.com/iamsachingpvt
+
+---
+
+### “Building skills one project at a time.” 🚀
