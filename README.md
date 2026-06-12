@@ -1,6 +1,6 @@
 # Hi, I'm Sachin Gupta 👋
 
-### Software Developer | BCA Student | Backend Enthusiast 🇮🇳
+### Software Developer | BCA Student | Tech Enthusiast 🇮🇳
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=iamsachinG&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
@@ -11,8 +11,6 @@
 ## 🚀 About Me
 
 🎓 BCA Student at Thakur College of Engineering & Technology (TCET), Mumbai
-
-💻 Currently focused on Backend Development
 
 🌱 Learning Node.js, Express.js, MongoDB, MySQL, REST APIs, Authentication & System Design
 
