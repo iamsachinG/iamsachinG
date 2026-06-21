@@ -30,7 +30,7 @@
 
 ### Languages
 
-HTML • CSS • JavaScript • Java • Python
+HTML • CSS • JavaScript • Python
 
 ### Frontend
 
