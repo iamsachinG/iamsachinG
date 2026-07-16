@@ -100,4 +100,3 @@ English Communication    ██████████████░░░░�
 
 ---
 
-### “Building skills one project at a time.” 🚀
