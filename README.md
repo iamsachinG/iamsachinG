@@ -80,18 +80,6 @@ Weather information using API integration.
 
 ---
 
-## 📈 Currently Working On
-
-```text
-Backend Development      ████████████████████ 100%
-Node.js & Express.js     ██████████████████░░ 90%
-Database Design          ████████████████░░░░ 80%
-Data Structures          ███████████████░░░░░ 75%
-English Communication    ██████████████░░░░░░ 70%
-```
-
----
-
 ## 🌐 Connect With Me
 
 * LinkedIn: linkedin.com/in/sachingupta6299
