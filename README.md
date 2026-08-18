@@ -10,9 +10,9 @@
 
 ## 🚀 About Me
 
-🎓 BCA Student at Thakur College of Engineering & Technology (TCET), Mumbai.
+🎓 Final Year BCA Student @Thakur College of Engineering & Technology (TCET), Mumbai.
 
-⚡ Interested in Software Engineering, Backend Systems, Databases, and Web Technologies.
+⚡ Interested in Software Engineering.
 
 🎯 Goal: Become a skilled Software Developer and build products that solve real-world problems
 
@@ -48,9 +48,8 @@ Git • GitHub • VS Code • Postman
 
 ## 📱 Android & Technology Enthusiast
 
-* Android Power User
 * ADB & Fastboot Experience
-* Custom ROM & Bootloader Unlocking Enthusiast
+* Custom ROM, Bootloader Unlocking & Rooting Enthusiast
 * Device Optimization & Debloating
 * Performance, Battery & System Tweaking
 
@@ -61,10 +60,6 @@ Git • GitHub • VS Code • Postman
 ### 🛒 Trimbak Organic
 
 Client website built for an organic products business.
-
-### 🛍️ E-Commerce Website
-
-Interactive shopping website using HTML, CSS, and JavaScript.
 
 ### 🌦️ Weather Application
 
