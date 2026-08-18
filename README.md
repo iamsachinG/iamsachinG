@@ -66,10 +66,6 @@ Git • GitHub • VS Code • Postman
 
 Client website built for an organic products business.
 
-### 🎵 Spotify UI Clone
-
-Responsive Spotify-inspired frontend interface.
-
 ### 🛍️ E-Commerce Website
 
 Interactive shopping website using HTML, CSS, and JavaScript.
