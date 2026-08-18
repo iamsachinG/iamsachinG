@@ -26,11 +26,11 @@
 
 ### Languages
 
-HTML • CSS • JavaScript • Python
+HTML • CSS • JavaScript • Python, TypeScript.
 
 ### Frontend
 
-HTML • CSS • Tailwind CSS • React
+HTML • CSS • Tailwind CSS • React.JS
 
 ### Backend
 
