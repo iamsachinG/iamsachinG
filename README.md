@@ -10,15 +10,11 @@
 
 ## 🚀 About Me
 
-🎓 BCA Student at Thakur College of Engineering & Technology (TCET), Mumbai
+🎓 BCA Student at Thakur College of Engineering & Technology (TCET), Mumbai.
 
-🌱 Learning Node.js, Express.js, MongoDB, MySQL, REST APIs, Authentication & System Design
-
-⚡ Interested in Software Engineering, Backend Systems, Databases, and Web Technologies
+⚡ Interested in Software Engineering, Backend Systems, Databases, and Web Technologies.
 
 🎯 Goal: Become a skilled Software Developer and build products that solve real-world problems
-
-💬 Ask me about JavaScript, Node.js, HTML, CSS, MongoDB, and MySQL
 
 📫 Email: **[guptasachin6299@gmail.com](mailto:guptasachin6299@gmail.com)**
 
